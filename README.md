@@ -12,4 +12,4 @@ In this tutorial, you will learn how to write your own Django Signals.How to use
 5. Run the Application - `python manage.py runserver`
 6. Go to - http://localhost:8000/admin
 
-### Superuser already create - username : admin, password : password
+### Superuser already created - username : admin, password : password
